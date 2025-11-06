@@ -1,5 +1,7 @@
 # Scratcher-Recon v7
 
+![Scratcher Demo](./scratcher-demo.png)
+
 A modular, color-coded bash script for automated reconnaissance during bug bounty hunting.
 
 *Created by $ubzer0 aka Sujan Pisal*
