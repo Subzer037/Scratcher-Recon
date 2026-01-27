@@ -39,7 +39,7 @@ This script is a wrapper and requires the following tools to be installed and in
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/Scratcher-Recon.git](https://github.com/YourUsername/Scratcher-Recon.git)
+    git clone https://github.com/Subzer037/Scratcher-Recon.git
     ```
 2.  Move into the directory:
     ```bash
